@@ -1,0 +1,16 @@
+{
+  "name": "decaesar",
+  "version": "1.0.0",
+  "description": "A simple program to decipher a ceasar cipher with brute force method",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "VH Abeyvickrama",
+  "license": "ISC",
+  "dependencies": {
+    "alphabet": "^1.0.0"
+  }
+}
